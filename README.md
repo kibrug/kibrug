@@ -1,4 +1,5 @@
-### Hi there  I'am Software Engineer 👋
+### Hi there  I'am Kibru
+I'am Software Engineer 👋
 
 <!--
 **kibrug/kibrug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
