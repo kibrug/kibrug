@@ -1,5 +1,10 @@
-### Hi there  I'am Kibru
-I'am Software Engineer 👋
+### Kibru 👨🏽‍💻✨
+
+Hiya there 👋🏾 I was born in Ethiopia (Durame) and studying Software Engineering and I'm a Full-stack Software Engineer.
+
+I love learning new things especially about programming languages.
+
+
 
 <!--
 **kibrug/kibrug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
