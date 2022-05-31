@@ -1,6 +1,6 @@
 ### Kibru 👨🏽‍💻✨
 
-Hiya there 👋🏾 I was born in Ethiopia (Durame) and studying Software Engineering and I'm a Full-stack Software Engineer.
+Hiya there 👋🏾 I was born in Ethiopia and studying Software Engineering and I'm a Full-stack Software Engineer.
 
 I love learning new things especially about programming languages.
 
