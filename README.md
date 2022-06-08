@@ -3,6 +3,7 @@
 Hiya there 👋🏾 I was born in Ethiopia and studying Software Engineering and I'm a Full-stack Software Engineer.
 
 I love learning new things especially about programming languages.
+![kiblog](https://user-images.githubusercontent.com/87245699/172683444-bfd7327f-a0fc-4121-b5f5-be59c70488a1.png)
 
 
 
