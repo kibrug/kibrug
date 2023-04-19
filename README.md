@@ -1,8 +1,9 @@
 ### Kibru 👨🏽‍💻✨
 
-Hiya there 👋🏾 I was born in Ethiopia and I am Software Engineer and I'm a Full-stack Software Developer.
+Hiya there 👋🏾I have more than Three years experience in software development. My favorite programming language is Python, Java and JavaScript due to its enhanced object oriented structure, simplicity and the privilege to customize its feature. Although I developed most of my works in Python ,Java and JavaScript, I use other programming languages according to the requirements, time constraint and language comparative features. For web applications I use JavaScript, Django, React, HTML, CSS, Bootstrap and MySQL, which I personally found the fastest and the simplest to develop on. 
+I am always happy to learn new stuff and i love coding.
 
-I love learning new things especially about New Technology.
+I love learning new things especially about New Things.
 ![kiblog](https://user-images.githubusercontent.com/87245699/172683444-bfd7327f-a0fc-4121-b5f5-be59c70488a1.png)
 
 
@@ -23,6 +24,6 @@ Here are some ideas to get you started:
 -->
 
 
-PYPI Contributions 
+My Contributions 
 
 https://pypi.org/user/kibru/
