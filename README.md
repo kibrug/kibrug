@@ -1,9 +1,8 @@
 ### Kibru 👨🏽‍💻✨
 
-Hiya there 👋🏾I have more than four years experience in software development. My favorite programming language is Python, Java and JavaScript due to its enhanced object oriented structure, simplicity and the privilege to customize its feature. Although I developed most of my works in Python ,Java and JavaScript, I use other programming languages according to the requirements, time constraint and language comparative features. For web applications I use JavaScript, Django, React, HTML, CSS, Bootstrap and MySQL, which I personally found the fastest and the simplest to develop on. 
-I am always happy to learn new stuff and i love coding.
-
-I love learning new things especially about New Things.
+Entrepreneur and CEO  at DuneLuda
+I am always focused on solutions tailored just for you. Specializing in IT Consultation, cutting-edge Software Development, and seamless Integrations of Websites, Apps, Systems, and APIs, I am here to solve your work and business problems effortlessly.
+More about my work visit here https://www.duneluda.com
 
 
 ![KIbruLogo](https://github.com/kibrug/kibrug/assets/87245699/a215ecfb-d2bd-4d20-b29a-b32b9503e3aa)
